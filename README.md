@@ -1,70 +1,110 @@
-# Getting Started with Create React App
+# 🚀✨ EDUCATION WEBSITE USING REACT JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🎯 **Live Site**: [education-website-using-react-js-eight.vercel.app](https://education-website-using-react-js-eight.vercel.app)
 
-## Available Scripts
+Welcome to a fully responsive, modern, and interactive **Education Website** built using **React JS**.  
+This project is ideal for showcasing online courses, teachers, pricing plans, and more — with beautiful UI and smooth user experience.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+# 🖼️ Screenshot
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Website Screenshot](./screenshot.png)  
+> 💡 *Make sure to upload a `screenshot.png` file showing your homepage.*
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+# ✨ Key Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✔️ Mobile-friendly, responsive layout  
+⚛️ Built with React (Hooks + Components)  
+🧩 Reusable and modular UI components  
+📚 Courses & categories section  
+🧑‍🏫 Instructor & Team showcase  
+💵 Modern pricing table  
+📬 Contact form layout  
+🚀 Deployed with Vercel
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 🧰 Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| 🔧 Tech | ✅ Use |
+|--------|--------|
+| `React JS` | Frontend Framework |
+| `HTML5/CSS3` | Layout & Styling |
+| `JavaScript (ES6+)` | Functionality |
+| `Vercel` | Deployment Platform |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+# 📂 Folder Structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   ├── Courses.jsx
+│   ├── Team.jsx
+│   ├── Pricing.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+├── assets/              # All media files
+├── App.js               # Main app logic
+└── index.js             # Entry point
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# ⚙️ Local Setup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo-name.git
 
-## Learn More
+# Move to project directory
+cd your-repo-name
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Install dependencies
+npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Run development server
+npm start
+```
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# 🚀 Deployment Steps (Vercel)
 
-### Analyzing the Bundle Size
+```bash
+# Create production build
+npm run build
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Deploy using Vercel CLI
+vercel deploy
+```
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# 👨‍💻 Author
 
-### Advanced Configuration
+Developed with 💙 by **Prashant Narwar**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prashantnarwar)
+- 📷 [Instagram](https://www.instagram.com/)
+- 🌐 Portfolio: Coming Soon...
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# 📜 License
 
-### `npm run build` fails to minify
+This project is licensed under the **MIT License** — use it freely for learning or production.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+# 🌟 Support
+
+If you like this project, don’t forget to **star** 🌟 the repo and share it!  
+Thanks for checking it out 🙌
