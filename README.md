@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+# 🚀✨ EDUCATION WEBSITE USING REACT JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🎯 **Live Site**: [education-website-using-react-js-eight.vercel.app](https://education-website-using-react-js-eight.vercel.app)
 
-## Available Scripts
+Welcome to a fully responsive, modern, and interactive **Education Website** built using **React JS**.  
+This project is ideal for showcasing online courses, teachers, pricing plans, and more — with beautiful UI and smooth user experience.
 
-In the project directory, you can run:
+---
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🖼️ Screenshot
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Website Screenshot](./screenshot.png)  
+> 💡  ![image](https://github.com/user-attachments/assets/26d509c5-2098-4d46-b6a7-97a7ed97631d)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ✨ Key Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+✔️ Mobile-friendly, responsive layout  
+⚛️ Built with React (Hooks + Components)  
+🧩 Reusable and modular UI components  
+📚 Courses & categories section  
+🧑‍🏫 Instructor & Team showcase  
+💵 Modern pricing table  
+📬 Contact form layout  
+🚀 Deployed with Vercel
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🧰 Tech Stack
 
-### `npm run eject`
+| 🔧 Tech | ✅ Use |
+|--------|--------|
+| `React JS` | Frontend Framework |
+| `HTML5/CSS3` | Layout & Styling |
+| `JavaScript (ES6+)` | Functionality |
+| `Vercel` | Deployment Platform |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📂 Folder Structure
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   ├── Courses.jsx
+│   ├── Team.jsx
+│   ├── Pricing.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+├── assets/              # All media files
+├── App.js               # Main app logic
+└── index.js             # Entry point
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## ⚙️ Local Setup
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo-name.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# Install dependencies
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Run development server
+npm start
+```
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🚀 Deployment Steps (Vercel)
 
-### Making a Progressive Web App
+```bash
+# Create production build
+npm run build
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Deploy using Vercel CLI
+vercel deploy
+```
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 👨‍💻 Author
 
-### Deployment
+Developed with 💙 by **Prashant Narwar**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- 🔗 [LinkedIn](linkedin.com/in/prashant-narwar-82529636b)
+  
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📜 License
+
+This project is licensed under the **MIT License** — use it freely for learning or production.
+
+---
+
+## 🌟 Support
+
+If you like this project, don’t forget to **star** 🌟 the repo and share it!  
+Thanks for checking it out 🙌
